@@ -17,7 +17,7 @@ const app = express();
 // ✅ Allowed CORS origins
 const allowedOrigins = [
   'http://localhost:5173',
-  'https://adorable-brioche-cfd86e.netlify.app'
+  'skillify-theta.vercel.app'
 ];
 
 // ✅ CORS middleware — only once and BEFORE all routes
